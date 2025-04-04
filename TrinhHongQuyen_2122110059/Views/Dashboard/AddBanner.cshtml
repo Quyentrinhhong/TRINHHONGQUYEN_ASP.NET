@@ -1,0 +1,15 @@
+﻿@model TrinhHongQuyen_2122110059.Model.Banner
+
+<h2>Thêm Banner</h2>
+
+<form asp-action="AddBanner" method="post">
+    <div class="form-group">
+        <label for="Title">Tiêu đề</label>
+        <input type="text" id="Title" name="Title" class="form-control" value="@Model.Title" />
+    </div>
+    <div class="form-group">
+        <label for="Description">Mô tả</label>
+        <textarea id="Description" name="Description" class="form-control">@Model.Link</textarea>
+    </div>
+    <button type="submit" class="btn btn-success">Thêm</button>
+</form>
