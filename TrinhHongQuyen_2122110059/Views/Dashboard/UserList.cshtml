@@ -1,0 +1,35 @@
+﻿@model IEnumerable<TrinhHongQuyen_2122110059.Model.User>
+
+<h2>Danh sách User</h2>
+
+<a asp-action="AddUser" class="btn btn-success">Thêm mới</a>
+<a asp-action="Index" class="btn btn-primary">Quay lại</a>
+
+<table class="table table-bordered">
+    <tr>
+        <th>ID</th>
+        <th>UserName</th>
+        <th>Image</th>
+        <th>Password</th>
+        <th>Email</th>
+        <th>Phone</th>
+        <th>Address</th>
+
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Username</td>
+            <td>@item.Image</td>
+            <td>@item.Password</td>
+            <td>@item.Email</td>
+            <td>@item.Phone</td>
+            <td>@item.Address</td>
+            <td>
+                <a asp-action="EditUser" asp-route-id="@item.Id" class="btn btn-warning btn-sm">Sửa</a>
+                <a asp-action="DeleteUser" asp-route-id="@item.Id" class="btn btn-danger btn-sm">Xóa</a>
+            </td>
+        </tr>
+    }
+</table>

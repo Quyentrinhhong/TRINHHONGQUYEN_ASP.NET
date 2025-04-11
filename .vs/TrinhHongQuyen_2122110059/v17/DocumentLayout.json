@@ -3,20 +3,96 @@
   "WorkspaceRootPath": "E:\\asp.net\\TrinhHongQuyen_2122110059\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|e:\\asp.net\\trinhhongquyen_2122110059\\trinhhongquyen_2122110059\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|solutionrelative:trinhhongquyen_2122110059\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|e:\\asp.net\\trinhhongquyen_2122110059\\trinhhongquyen_2122110059\\views\\dashboard\\addbanner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|solutionrelative:trinhhongquyen_2122110059\\views\\dashboard\\addbanner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|e:\\asp.net\\trinhhongquyen_2122110059\\trinhhongquyen_2122110059\\views\\dashboard\\adduser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|solutionrelative:trinhhongquyen_2122110059\\views\\dashboard\\adduser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|e:\\asp.net\\trinhhongquyen_2122110059\\trinhhongquyen_2122110059\\views\\dashboard\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|solutionrelative:trinhhongquyen_2122110059\\views\\dashboard\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|e:\\asp.net\\trinhhongquyen_2122110059\\trinhhongquyen_2122110059\\views\\dashboard\\addcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|solutionrelative:trinhhongquyen_2122110059\\views\\dashboard\\addcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|e:\\asp.net\\trinhhongquyen_2122110059\\trinhhongquyen_2122110059\\views\\dashboard\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|solutionrelative:trinhhongquyen_2122110059\\views\\dashboard\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|e:\\asp.net\\trinhhongquyen_2122110059\\trinhhongquyen_2122110059\\views\\dashboard\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|solutionrelative:trinhhongquyen_2122110059\\views\\dashboard\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|e:\\asp.net\\trinhhongquyen_2122110059\\trinhhongquyen_2122110059\\views\\dashboard\\editbanner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|solutionrelative:trinhhongquyen_2122110059\\views\\dashboard\\editbanner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|e:\\asp.net\\trinhhongquyen_2122110059\\trinhhongquyen_2122110059\\views\\dashboard\\editcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|solutionrelative:trinhhongquyen_2122110059\\views\\dashboard\\editcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|e:\\asp.net\\trinhhongquyen_2122110059\\trinhhongquyen_2122110059\\views\\dashboard\\categorylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|solutionrelative:trinhhongquyen_2122110059\\views\\dashboard\\categorylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|e:\\asp.net\\trinhhongquyen_2122110059\\trinhhongquyen_2122110059\\views\\dashboard\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|solutionrelative:trinhhongquyen_2122110059\\views\\dashboard\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|e:\\asp.net\\trinhhongquyen_2122110059\\trinhhongquyen_2122110059\\views\\dashboard\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|solutionrelative:trinhhongquyen_2122110059\\views\\dashboard\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|e:\\asp.net\\trinhhongquyen_2122110059\\trinhhongquyen_2122110059\\views\\dashboard\\bannerlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|solutionrelative:trinhhongquyen_2122110059\\views\\dashboard\\bannerlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|e:\\asp.net\\trinhhongquyen_2122110059\\trinhhongquyen_2122110059\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|solutionrelative:trinhhongquyen_2122110059\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|e:\\asp.net\\trinhhongquyen_2122110059\\trinhhongquyen_2122110059\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|solutionrelative:trinhhongquyen_2122110059\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|e:\\asp.net\\trinhhongquyen_2122110059\\trinhhongquyen_2122110059\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|solutionrelative:trinhhongquyen_2122110059\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|e:\\asp.net\\trinhhongquyen_2122110059\\trinhhongquyen_2122110059\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|solutionrelative:trinhhongquyen_2122110059\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|e:\\asp.net\\trinhhongquyen_2122110059\\trinhhongquyen_2122110059\\trinhhongquyen_2122110059.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|solutionrelative:trinhhongquyen_2122110059\\trinhhongquyen_2122110059.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|e:\\asp.net\\trinhhongquyen_2122110059\\trinhhongquyen_2122110059\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|solutionrelative:trinhhongquyen_2122110059\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|e:\\asp.net\\trinhhongquyen_2122110059\\trinhhongquyen_2122110059\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|solutionrelative:trinhhongquyen_2122110059\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|e:\\asp.net\\trinhhongquyen_2122110059\\trinhhongquyen_2122110059\\migrations\\20250404064154_addcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|solutionrelative:trinhhongquyen_2122110059\\migrations\\20250404064154_addcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|e:\\asp.net\\trinhhongquyen_2122110059\\trinhhongquyen_2122110059\\services\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|solutionrelative:trinhhongquyen_2122110059\\services\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|e:\\asp.net\\trinhhongquyen_2122110059\\trinhhongquyen_2122110059\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|solutionrelative:trinhhongquyen_2122110059\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|e:\\asp.net\\trinhhongquyen_2122110059\\trinhhongquyen_2122110059\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|solutionrelative:trinhhongquyen_2122110059\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|e:\\asp.net\\trinhhongquyen_2122110059\\trinhhongquyen_2122110059\\models\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,46 +101,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|e:\\asp.net\\trinhhongquyen_2122110059\\trinhhongquyen_2122110059\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|solutionrelative:trinhhongquyen_2122110059\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|e:\\asp.net\\trinhhongquyen_2122110059\\trinhhongquyen_2122110059\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|solutionrelative:trinhhongquyen_2122110059\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|e:\\asp.net\\trinhhongquyen_2122110059\\trinhhongquyen_2122110059\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|solutionrelative:trinhhongquyen_2122110059\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|e:\\asp.net\\trinhhongquyen_2122110059\\trinhhongquyen_2122110059\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|solutionrelative:trinhhongquyen_2122110059\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|e:\\asp.net\\trinhhongquyen_2122110059\\trinhhongquyen_2122110059\\models\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|solutionrelative:trinhhongquyen_2122110059\\models\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|e:\\asp.net\\trinhhongquyen_2122110059\\trinhhongquyen_2122110059\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|solutionrelative:trinhhongquyen_2122110059\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|e:\\asp.net\\trinhhongquyen_2122110059\\trinhhongquyen_2122110059\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|solutionrelative:trinhhongquyen_2122110059\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|e:\\asp.net\\trinhhongquyen_2122110059\\trinhhongquyen_2122110059\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|solutionrelative:trinhhongquyen_2122110059\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|e:\\asp.net\\trinhhongquyen_2122110059\\trinhhongquyen_2122110059\\trinhhongquyen_2122110059.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|solutionrelative:trinhhongquyen_2122110059\\trinhhongquyen_2122110059.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|e:\\asp.net\\trinhhongquyen_2122110059\\trinhhongquyen_2122110059\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|solutionrelative:trinhhongquyen_2122110059\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|e:\\asp.net\\trinhhongquyen_2122110059\\trinhhongquyen_2122110059\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{71CC4964-8D19-40D9-9AC8-774FD94A019B}|TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj|solutionrelative:trinhhongquyen_2122110059\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,154 +110,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 24,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AddBanner.cshtml",
-              "DocumentMoniker": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Views\\Dashboard\\AddBanner.cshtml",
-              "RelativeDocumentMoniker": "TrinhHongQuyen_2122110059\\Views\\Dashboard\\AddBanner.cshtml",
-              "ToolTip": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Views\\Dashboard\\AddBanner.cshtml",
-              "RelativeToolTip": "TrinhHongQuyen_2122110059\\Views\\Dashboard\\AddBanner.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "TrinhHongQuyen_2122110059.csproj",
+              "DocumentMoniker": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj",
+              "RelativeDocumentMoniker": "TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj",
+              "ToolTip": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj",
+              "RelativeToolTip": "TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-11T08:26:16.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "TrinhHongQuyen_2122110059\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "TrinhHongQuyen_2122110059\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-04T09:00:28.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T08:15:47.055Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "TrinhHongQuyen_2122110059\\WeatherForecast.cs",
-              "ToolTip": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\WeatherForecast.cs",
-              "RelativeToolTip": "TrinhHongQuyen_2122110059\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 18,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TrinhHongQuyen_2122110059\\Data\\AppDbContext.cs",
+              "ToolTip": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "TrinhHongQuyen_2122110059\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T08:00:03.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T08:12:42.821Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "TrinhHongQuyen_2122110059\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "TrinhHongQuyen_2122110059\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T07:58:54.246Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "TrinhHongQuyen_2122110059\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "TrinhHongQuyen_2122110059\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TrinhHongQuyen_2122110059\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TrinhHongQuyen_2122110059\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-04T07:32:42.745Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T08:12:17.169Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DashboardViewModel.cs",
-              "DocumentMoniker": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Models\\DashboardViewModel.cs",
-              "RelativeDocumentMoniker": "TrinhHongQuyen_2122110059\\Models\\DashboardViewModel.cs",
-              "ToolTip": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Models\\DashboardViewModel.cs",
-              "RelativeToolTip": "TrinhHongQuyen_2122110059\\Models\\DashboardViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "DocumentIndex": 19,
+              "Title": "20250404064154_AddCategory.cs",
+              "DocumentMoniker": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Migrations\\20250404064154_AddCategory.cs",
+              "RelativeDocumentMoniker": "TrinhHongQuyen_2122110059\\Migrations\\20250404064154_AddCategory.cs",
+              "ToolTip": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Migrations\\20250404064154_AddCategory.cs",
+              "RelativeToolTip": "TrinhHongQuyen_2122110059\\Migrations\\20250404064154_AddCategory.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAQwEwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T07:30:34.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T08:05:07.223Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "TrinhHongQuyen_2122110059\\Controllers\\DashboardController.cs",
-              "ToolTip": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "TrinhHongQuyen_2122110059\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAHMAAAAAAAAAAAAcwHgAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T07:28:19.665Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Program.cs",
-              "RelativeDocumentMoniker": "TrinhHongQuyen_2122110059\\Program.cs",
-              "ToolTip": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Program.cs",
-              "RelativeToolTip": "TrinhHongQuyen_2122110059\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T07:25:14.033Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 20,
               "Title": "DashboardService.cs",
               "DocumentMoniker": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Services\\DashboardService.cs",
               "RelativeDocumentMoniker": "TrinhHongQuyen_2122110059\\Services\\DashboardService.cs",
               "ToolTip": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Services\\DashboardService.cs",
               "RelativeToolTip": "TrinhHongQuyen_2122110059\\Services\\DashboardService.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAADwvxwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwBsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T07:24:32.982Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T07:51:07.145Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Category.cs",
-              "DocumentMoniker": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "TrinhHongQuyen_2122110059\\Models\\Category.cs",
-              "ToolTip": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Models\\Category.cs",
-              "RelativeToolTip": "TrinhHongQuyen_2122110059\\Models\\Category.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAowAcAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T06:26:28.911Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 21,
               "Title": "User.cs",
               "DocumentMoniker": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Models\\User.cs",
               "RelativeDocumentMoniker": "TrinhHongQuyen_2122110059\\Models\\User.cs",
               "ToolTip": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Models\\User.cs",
               "RelativeToolTip": "TrinhHongQuyen_2122110059\\Models\\User.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA/wAsAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T06:26:12.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T07:33:21.139Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Banner.cs",
-              "DocumentMoniker": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Models\\Banner.cs",
-              "RelativeDocumentMoniker": "TrinhHongQuyen_2122110059\\Models\\Banner.cs",
-              "ToolTip": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Models\\Banner.cs",
-              "RelativeToolTip": "TrinhHongQuyen_2122110059\\Models\\Banner.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T06:25:58.322Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 22,
               "Title": "Product.cs",
               "DocumentMoniker": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Models\\Product.cs",
               "RelativeDocumentMoniker": "TrinhHongQuyen_2122110059\\Models\\Product.cs",
@@ -229,58 +206,211 @@
               "RelativeToolTip": "TrinhHongQuyen_2122110059\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T08:49:15.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T07:33:12Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\appsettings.json",
-              "RelativeDocumentMoniker": "TrinhHongQuyen_2122110059\\appsettings.json",
-              "ToolTip": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\appsettings.json",
-              "RelativeToolTip": "TrinhHongQuyen_2122110059\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-28T07:33:49.655Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "TrinhHongQuyen_2122110059\\Properties\\launchSettings.json",
-              "ToolTip": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Properties\\launchSettings.json",
-              "RelativeToolTip": "TrinhHongQuyen_2122110059\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-28T07:33:35.419Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "TrinhHongQuyen_2122110059\\Data\\AppDbContext.cs",
-              "ToolTip": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "TrinhHongQuyen_2122110059\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 23,
+              "Title": "DashboardViewModel.cs",
+              "DocumentMoniker": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Models\\DashboardViewModel.cs",
+              "RelativeDocumentMoniker": "TrinhHongQuyen_2122110059\\Models\\DashboardViewModel.cs",
+              "ToolTip": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Models\\DashboardViewModel.cs",
+              "RelativeToolTip": "TrinhHongQuyen_2122110059\\Models\\DashboardViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T06:48:52.151Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T07:32:49.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "TrinhHongQuyen_2122110059\\Models\\Category.cs",
+              "ToolTip": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Models\\Category.cs",
+              "RelativeToolTip": "TrinhHongQuyen_2122110059\\Models\\Category.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAywBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T07:32:37.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditUser.cshtml",
+              "DocumentMoniker": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Views\\Dashboard\\EditUser.cshtml",
+              "RelativeDocumentMoniker": "TrinhHongQuyen_2122110059\\Views\\Dashboard\\EditUser.cshtml",
+              "ToolTip": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Views\\Dashboard\\EditUser.cshtml",
+              "RelativeToolTip": "TrinhHongQuyen_2122110059\\Views\\Dashboard\\EditUser.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T07:17:06.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddUser.cshtml",
+              "DocumentMoniker": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Views\\Dashboard\\AddUser.cshtml",
+              "RelativeDocumentMoniker": "TrinhHongQuyen_2122110059\\Views\\Dashboard\\AddUser.cshtml",
+              "ToolTip": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Views\\Dashboard\\AddUser.cshtml",
+              "RelativeToolTip": "TrinhHongQuyen_2122110059\\Views\\Dashboard\\AddUser.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T07:16:48.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserList.cshtml",
+              "DocumentMoniker": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Views\\Dashboard\\UserList.cshtml",
+              "RelativeDocumentMoniker": "TrinhHongQuyen_2122110059\\Views\\Dashboard\\UserList.cshtml",
+              "ToolTip": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Views\\Dashboard\\UserList.cshtml",
+              "RelativeToolTip": "TrinhHongQuyen_2122110059\\Views\\Dashboard\\UserList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T07:16:28.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductList.cshtml",
+              "DocumentMoniker": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Views\\Dashboard\\ProductList.cshtml",
+              "RelativeDocumentMoniker": "TrinhHongQuyen_2122110059\\Views\\Dashboard\\ProductList.cshtml",
+              "ToolTip": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Views\\Dashboard\\ProductList.cshtml",
+              "RelativeToolTip": "TrinhHongQuyen_2122110059\\Views\\Dashboard\\ProductList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T07:04:43.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditProduct.cshtml",
+              "DocumentMoniker": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Views\\Dashboard\\EditProduct.cshtml",
+              "RelativeDocumentMoniker": "TrinhHongQuyen_2122110059\\Views\\Dashboard\\EditProduct.cshtml",
+              "ToolTip": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Views\\Dashboard\\EditProduct.cshtml",
+              "RelativeToolTip": "TrinhHongQuyen_2122110059\\Views\\Dashboard\\EditProduct.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T07:04:16.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddProduct.cshtml",
+              "DocumentMoniker": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Views\\Dashboard\\AddProduct.cshtml",
+              "RelativeDocumentMoniker": "TrinhHongQuyen_2122110059\\Views\\Dashboard\\AddProduct.cshtml",
+              "ToolTip": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Views\\Dashboard\\AddProduct.cshtml",
+              "RelativeToolTip": "TrinhHongQuyen_2122110059\\Views\\Dashboard\\AddProduct.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T07:03:36.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditCategory.cshtml",
+              "DocumentMoniker": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Views\\Dashboard\\EditCategory.cshtml",
+              "RelativeDocumentMoniker": "TrinhHongQuyen_2122110059\\Views\\Dashboard\\EditCategory.cshtml",
+              "ToolTip": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Views\\Dashboard\\EditCategory.cshtml",
+              "RelativeToolTip": "TrinhHongQuyen_2122110059\\Views\\Dashboard\\EditCategory.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T06:46:36.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddCategory.cshtml",
+              "DocumentMoniker": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Views\\Dashboard\\AddCategory.cshtml",
+              "RelativeDocumentMoniker": "TrinhHongQuyen_2122110059\\Views\\Dashboard\\AddCategory.cshtml",
+              "ToolTip": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Views\\Dashboard\\AddCategory.cshtml",
+              "RelativeToolTip": "TrinhHongQuyen_2122110059\\Views\\Dashboard\\AddCategory.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T06:46:22.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryList.cshtml",
+              "DocumentMoniker": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Views\\Dashboard\\CategoryList.cshtml",
+              "RelativeDocumentMoniker": "TrinhHongQuyen_2122110059\\Views\\Dashboard\\CategoryList.cshtml",
+              "ToolTip": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Views\\Dashboard\\CategoryList.cshtml",
+              "RelativeToolTip": "TrinhHongQuyen_2122110059\\Views\\Dashboard\\CategoryList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T06:43:36.902Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "TrinhHongQuyen_2122110059.csproj",
-              "DocumentMoniker": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj",
-              "RelativeDocumentMoniker": "TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj",
-              "ToolTip": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj",
-              "RelativeToolTip": "TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-28T06:47:21.393Z",
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TrinhHongQuyen_2122110059\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "TrinhHongQuyen_2122110059\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T06:36:23.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditBanner.cshtml",
+              "DocumentMoniker": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Views\\Dashboard\\EditBanner.cshtml",
+              "RelativeDocumentMoniker": "TrinhHongQuyen_2122110059\\Views\\Dashboard\\EditBanner.cshtml",
+              "ToolTip": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Views\\Dashboard\\EditBanner.cshtml",
+              "RelativeToolTip": "TrinhHongQuyen_2122110059\\Views\\Dashboard\\EditBanner.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T06:26:21.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "TrinhHongQuyen_2122110059\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "TrinhHongQuyen_2122110059\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T06:23:13.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BannerList.cshtml",
+              "DocumentMoniker": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Views\\Dashboard\\BannerList.cshtml",
+              "RelativeDocumentMoniker": "TrinhHongQuyen_2122110059\\Views\\Dashboard\\BannerList.cshtml",
+              "ToolTip": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Views\\Dashboard\\BannerList.cshtml",
+              "RelativeToolTip": "TrinhHongQuyen_2122110059\\Views\\Dashboard\\BannerList.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T06:22:00.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "TrinhHongQuyen_2122110059\\Controllers\\DashboardController.cs",
+              "ToolTip": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "TrinhHongQuyen_2122110059\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:18:14.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddBanner.cshtml",
+              "DocumentMoniker": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Views\\Dashboard\\AddBanner.cshtml",
+              "RelativeDocumentMoniker": "TrinhHongQuyen_2122110059\\Views\\Dashboard\\AddBanner.cshtml",
+              "ToolTip": "E:\\asp.net\\TrinhHongQuyen_2122110059\\TrinhHongQuyen_2122110059\\Views\\Dashboard\\AddBanner.cshtml",
+              "RelativeToolTip": "TrinhHongQuyen_2122110059\\Views\\Dashboard\\AddBanner.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T06:15:25.064Z",
               "EditorCaption": ""
             }
           ]

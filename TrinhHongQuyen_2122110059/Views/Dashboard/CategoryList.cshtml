@@ -1,0 +1,29 @@
+﻿@model IEnumerable<TrinhHongQuyen_2122110059.Model.Category>
+
+<h2>Danh sách Category</h2>
+
+<a asp-action="AddCategory" class="btn btn-success">Thêm mới</a>
+<a asp-action="Index" class="btn btn-primary">Quay lại</a>
+
+<table class="table table-bordered">
+    <tr>
+        <th>Id</th>
+        <th>Tên Category</th>
+        <th>Mô tả</th>
+        <th>Hình ảnh</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Name</td>
+            <td>@item.Description</td>
+            <td>@item.ImageUrl</td>
+
+            <td>
+                <a asp-action="EditCategory" asp-route-id="@item.Id" class="btn btn-warning btn-sm">Sửa</a> |
+                <a asp-action="DeleteCategory" asp-route-id="@item.Id" class="btn btn-danger btn-sm">Xóa</a>
+            </td>
+        </tr>
+    }
+</table>

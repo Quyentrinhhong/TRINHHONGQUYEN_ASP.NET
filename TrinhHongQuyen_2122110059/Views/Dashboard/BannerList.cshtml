@@ -1,0 +1,29 @@
+﻿@model IEnumerable<TrinhHongQuyen_2122110059.Model.Banner>
+
+<h2>Danh sách Banner</h2>
+
+<a asp-action="AddBanner" class="btn btn-success">Thêm mới</a>
+<a asp-action="Index" class="btn btn-primary">Quay lại</a>
+
+<table class="table table-bordered">
+    <tr>
+        <th>ID</th>
+        <th>Tiêu đề</th>
+        <th>Hình ảnh</th>
+        <th>Link</th>
+        <th>Hành động</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Title</td>
+            <td>@item.ImageUrl</td>
+            <td>@item.Link</td>
+            <td>
+                <a asp-action="EditBanner" asp-route-id="@item.Id" class="btn btn-warning btn-sm">Sửa</a>
+                <a asp-action="DeleteBanner" asp-route-id="@item.Id" class="btn btn-danger btn-sm">Xóa</a>
+            </td>
+        </tr>
+    }
+</table>

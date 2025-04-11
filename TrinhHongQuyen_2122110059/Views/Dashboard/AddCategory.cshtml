@@ -1,29 +1,30 @@
-﻿@model TrinhHongQuyen_2122110059.Model.Banner
+﻿@model TrinhHongQuyen_2122110059.Model.Category
 
-<h2>@{
+<h2>
+    @{
         ViewData["Title"] = "Thêm";
-        ViewData["Action"] = "AddBanner";
+        ViewData["Action"] = "AddCategory";
     }
 </h2>
 
 <form asp-action="@ViewData["Action"]" method="post">
     <div class="form-group">
-        <label>Tiêu đề</label>
-        <input asp-for="Title" class="form-control" />
+        <label>Tên danh mục</label>
+        <input asp-for="Name" class="form-control" />
     </div>
     <div class="form-group">
-        <label>Ảnh</label>
+        <label>Link ảnh</label>
         <input asp-for="ImageUrl" class="form-control" />
     </div>
     <div class="form-group">
-        <label>Link</label>
-        <input asp-for="Link" class="form-control" />
+        <label>Mô tả</label>
+        <input asp-for="Description" class="form-control" />
     </div>
     <div class="form-group">
         <label>Hiển thị</label>
         <input asp-for="IsActive" type="checkbox" />
     </div>
     <button type="submit" class="btn btn-success">Lưu</button>
-    <a asp-action="BannerList" class="btn btn-danger">Hủy</a>
+    <a asp-action="CategoryList" class="btn btn-danger">Hủy</a>
 
 </form>
